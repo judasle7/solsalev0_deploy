@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c103d73.css",
-    "main.js": "/static/js/main.3b950d69.js",
+    "main.css": "/static/css/main.784644ae.css",
+    "main.js": "/static/js/main.3e724959.js",
     "static/js/648.3f7c170e.chunk.js": "/static/js/648.3f7c170e.chunk.js",
     "static/js/227.81193ff8.chunk.js": "/static/js/227.81193ff8.chunk.js",
     "static/js/258.3c2ac1e7.chunk.js": "/static/js/258.3c2ac1e7.chunk.js",
     "static/js/453.d591e82d.chunk.js": "/static/js/453.d591e82d.chunk.js",
-    "static/media/home-banner.png": "/static/media/home-banner.f83ba9ab5d7b288f0238.png",
+    "static/media/bg_popup.png": "/static/media/bg_popup.020199cc7c910dc8f8c1.png",
     "static/media/modal-create-token.png": "/static/media/modal-create-token.eb890a8b65eabbcbdde3.png",
     "static/media/modal-create-launchpad.png": "/static/media/modal-create-launchpad.dba8ab65c286d7f10b9c.png",
-    "static/media/logo-text.png": "/static/media/logo-text.b19f991d22bd01967c42.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.7c103d73.css",
-    "static/js/main.3b950d69.js"
+    "static/css/main.784644ae.css",
+    "static/js/main.3e724959.js"
   ]
 }
